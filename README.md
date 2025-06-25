@@ -34,8 +34,7 @@ cd <project-folder-name>
 ### 3. Install Project Dependencies
 Inside the project folder, run the following command:
 
-```
-bash
+```bash
 
 npm install
 ```

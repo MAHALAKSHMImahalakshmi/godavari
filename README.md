@@ -30,14 +30,16 @@ Navigate into the project directory:
 
 cd <project-folder-name>
 ```
+
 ### 3. Install Project Dependencies
 Inside the project folder, run the following command:
-```
+
 ```
 bash
 
 npm install
 ```
+
 This will download all the dependencies required to run the app.
 
 
@@ -64,8 +66,9 @@ In the project folder, run:
 ```bash
 
 npm start
-Your browser will open automatically at http://localhost:3000.
 ```
+Your browser will open automatically at http://localhost:3000.
+
 
 You should see the app running!
 
